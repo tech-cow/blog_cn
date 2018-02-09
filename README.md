@@ -19,7 +19,7 @@
 <details>
 <summary> 内容 </summary>
 
-* [`说话艺术`](#ary)
+* [`说话艺术`](情商/说话艺术.md)
 * [`call`](#call)
 
 
@@ -31,7 +31,6 @@
 <summary> 内容 </summary>
 
 * [`说话艺术`](#ary)
-* [`call`](#call)
 
 
 </details>
