@@ -19,7 +19,7 @@
 <details>
 <summary> 内容 </summary>
 
-* [`说话艺术`](情商/说话艺术.md)
+* [`知乎LIVE: 说话艺术 | 课堂笔记`](情商/说话艺术.md)
 * [`call`](#call)
 
 
