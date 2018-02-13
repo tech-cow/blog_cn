@@ -14,10 +14,10 @@
 
 ## 目录
 
-### 🔌 说话 | 情商
+### 🍉 情商
 
 <details>
-<summary> 内容 </summary>
+<summary> 目录 </summary>
 
 * [`知乎LIVE: 说话艺术 | 课堂笔记`](情商/说话艺术.md)
 * [`知乎LIVE: 如何提高人际关系 | 课堂笔记`](情商/人际关系.md)
@@ -25,6 +25,22 @@
 
 </details>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## License
 
