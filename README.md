@@ -20,17 +20,7 @@
 <summary> 内容 </summary>
 
 * [`知乎LIVE: 说话艺术 | 课堂笔记`](情商/说话艺术.md)
-* [`call`](#call)
-
-
-</details>
-
-### 📚 Array
-
-<details>
-<summary> 内容 </summary>
-
-* [`说话艺术`](#ary)
+* [`知乎LIVE: 如何提高人际关系 | 课堂笔记`](情商/人际关系.md)
 
 
 </details>
