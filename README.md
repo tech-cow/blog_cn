@@ -14,27 +14,34 @@
 
 ## 目录
 
-### 🔌 说话 | 情商
+<!--  🍋 🍌 🍎 🍏 🍐 🍒 🍓 🥝 🍅 🥥 -->
 
-<details>
-<summary> 内容 </summary>
-
-* [`知乎LIVE: 说话艺术 | 课堂笔记`](情商/说话艺术.md)
-* [`call`](#call)
+### 🍉 情商
 
 
-</details>
-
-### 📚 Array
-
-<details>
-<summary> 内容 </summary>
-
-* [`说话艺术`](#ary)
+| Title           |   Source  | Link |
+| ------------- |------------- |:-------------:|
+| `说话艺术`     |  知乎LIVE  | [🍉](情商/说话艺术.md) |
+| `如何提高人际关系`     |  知乎LIVE  | [🍑](人际关系.md) |
 
 
-</details>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## License
 
